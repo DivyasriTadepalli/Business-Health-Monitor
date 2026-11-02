@@ -33,7 +33,7 @@ The dataset includes information about stores, products, sales, revenue, profit 
 ## Project Workflow
 
 1. **Data Inspection:** Examined the dataset in Excel to understand its structure and identify data quality issues.
-2. **Data Cleaning:** Used Power Query to remove the completely empty Supplier_Rating column and prepare the data.
+2. **Data Cleaning:** Used Power Query to inspect and prepare the dataset, including reviewing missing values and setting appropriate data types.
 3. **SQL Analysis:** Used MySQL to investigate revenue, profit margins, sales channels, customer satisfaction, returns, and inventory performance.
 4. **Python Analysis:** Used Pandas and Matplotlib to examine promotion performance and visualise average profit margins and discounts.
 5. **Dashboard Development:** Created a three-page interactive Power BI report.
